@@ -1,4 +1,4 @@
-# Study Guide Webpafe
+# Study Guide Webpage
 
 ## Description
 
